@@ -3,7 +3,7 @@
 <<info
 this shell script will take period back
 
-e.g. ./bach.sh <source> <destination>
+e.g. ./backup.sh <source> <destination>
 info
 
 src=$1
