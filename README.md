@@ -43,7 +43,7 @@ Each script is designed for specific tasks. Below are examples of how to use som
   ```bash
   ./delete_user.sh
   ```
-  This script prompts for the username to delete and removes the specified user.
+  This script prompts for the username to delete and removes the specified user
 
 - **Installing a Package**:
   ```bash
@@ -89,4 +89,4 @@ For questions or support, please open an issue in this repository.
 
 ---
 
-By utilizing these shell scripts, you can automate routine tasks, enhance productivity, and gain hands-on experience in shell scripting.
+By utilizing these shell scripts. you can automate routine tasks, enhance productivity, and gain hands-on experience in shell scripting.
