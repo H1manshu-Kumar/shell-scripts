@@ -1,8 +1,7 @@
 #!/bin/bash
 
 <<helpText
-this is a shell script to 
-create user
+this is a shell script to create user
 
 helpText
 
