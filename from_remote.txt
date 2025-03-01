@@ -1,1 +1,2 @@
 This file is created on Remote Repository
+Note: This file serves as a demonstration of transferring files from a remote machine to local development machine using Git.
