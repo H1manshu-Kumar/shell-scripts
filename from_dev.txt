@@ -1,2 +1,2 @@
-This is a file in the dev branch
-
+This is a file in the dev branch.
+Note: This file serves as a demonstration of transferring files from a local development machine to a remote machine using Git.
