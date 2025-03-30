@@ -1,16 +1,17 @@
-#!/bin/bash
+#!/bin/bash  # Specifies that this script should be executed using the Bash shell
 
 <<info
-This script is used to demonstrate loops in shell script
-loops: anything that you want to repeat again and again and again based on conditions
-1...10
-start point = 1
-end point = 10
-increment/decrement = + or -
+This script demonstrates loops in a shell script.
+Loops allow repeating a set of commands based on conditions.
+
+Example: Printing numbers from 1 to 10
+- Start point = 1
+- End point = 10
+- Increment = +1
 info
 
-for (( num=1 ; num<=10 ; num++))
+# A for loop that runs from 1 to 10
+for (( num=1 ; num<=10 ; num++ ))
 do
-	echo "$num"
+    echo "$num"  # Prints the current value of num
 done
-
