@@ -20,6 +20,6 @@ echo -e "$password\n$password" | sudo passwd "$userName"
 
 echo "========User creation Completed======="
 }
-
+#Call create_user function
 create_user
 
