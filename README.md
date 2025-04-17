@@ -78,11 +78,6 @@ Contributions are welcome! To contribute:
    ```
 5. **Submit a Pull Request**: Describe your changes and submit a PR to the main repository.
 
-## License
-
-This project is licensed under the MIT License.  
-See the [LICENSE](https://github.com/H1manshu-Kumar/shell-scripts/blob/main/LICENSE) file for details.
-
 ---
 
 By utilizing these shell scripts. you can automate routine tasks, enhance productivity, and gain hands-on experience in shell scripting.
