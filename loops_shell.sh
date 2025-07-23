@@ -10,9 +10,10 @@ Example: Printing numbers from 1 to 10
 - Increment = +1
 information
 
-# A 'for' loop using C-style syntax
-# Initializes variable num=1; continues as long as num<=10; increments num by 1 each time
+# A 'for' loop using C-style syntax in Bash
+# Syntax: for (( initialization; condition; increment ))
+# Starts with num=1, runs until num is less than or equal to 10, increments num by 1 each time
 for (( num=1 ; num<=10 ; num++ ))
 do
     echo "$num"  # Prints the current value of num to the terminal
-done
+done  # End of loop block
