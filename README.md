@@ -49,7 +49,7 @@ Each script is designed for specific tasks. Below are examples of how to use som
   ```bash
   ./install_package.sh
   ```
-  This script prompts for the package name and installs it using the system's package manager.
+  This script prompts for the package name and installs it using the system's package manager
 
 Before running any script, review its content to understand its functionality and ensure it meets your requirements.
 
