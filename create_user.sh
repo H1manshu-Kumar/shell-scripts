@@ -1,4 +1,6 @@
-#!/bin/bash  # Specifies that this script should be run using the Bash shell
+#!/bin/bash  
+
+# Above first line specifies that this script should be run using the Bash shell
 
 <<helpText
 this is a shell script to create user
