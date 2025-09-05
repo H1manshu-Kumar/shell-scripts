@@ -1,4 +1,6 @@
-#!/bin/bash  # Specifies that this script should be executed using the Bash shell
+#!/bin/bash  
+
+# Above line specifies that this script should be executed using the Bash shell
 
 <<information
 This script demonstrates loops in a shell script.
