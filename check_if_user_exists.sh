@@ -1,8 +1,8 @@
 #!/bin/bash
 
-<<info
+<<helptext
 Check if username exists
-info
+helptext
 
 # Prompt the user to enter the username they want to check
 read -p "Enter the username you want to check " username
