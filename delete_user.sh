@@ -10,15 +10,12 @@ read -p "Enter the username you want to delete " userName
 # Delete the user with the username stored in 'userName'
 sudo userdel "$userName"
 
-# Print a message indicating that the user has been successfully deleted
-echo "$userName User deleted successfully"
-
 # Check if the user still exists in the /etc/passwd file
 if [ $(cat /etc/passwd | grep $userName | wc | awk '{print $1}') == 0 ]
 then
     # If the user does not exist (wc output is 0), print a confirmation message
-    echo "As wc is 0, the user is deleted"
+    echo "As wc is 0, $userName User deleted successfully"
 else 
     # If the user still exists, print a message indicating the user was not deleted
-    echo "The user not deleted"
+    echo "user still exists, User not deleted!"
 fi
