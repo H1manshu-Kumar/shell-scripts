@@ -9,4 +9,3 @@ echo "Hello!"
 }
 
 greet
-greet
