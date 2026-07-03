@@ -166,11 +166,12 @@ git push origin feature/enhanced-backup
 ✅ Secure credential handling  
 ✅ Output redirection for clean execution  
 
-## 📬 Connect
+## 👨‍💻 Author
 
-Created by [Himanshu Kumar](https://github.com/H1manshu-Kumar)
+**Himanshu Kumar** - Building, Containerizing, and Deploying One Step at a Time 🚀  
 
-⭐ Star this repo if you find it helpful for your DevOps journey!
+🔗 GitHub: https://github.com/H1manshu-Kumar  
+🔗 LinkedIn: https://www.linkedin.com/in/h1manshu-kumar
 
 ---
 
