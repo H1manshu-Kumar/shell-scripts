@@ -1,7 +1,7 @@
 #!/bin/bash
 
 <<helptext
-Check if username exists
+Check if username exists.
 helptext
 
 # Prompt the user to enter the username they want to check
