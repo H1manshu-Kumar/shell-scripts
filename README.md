@@ -174,9 +174,3 @@ git push origin feature/enhanced-backup
 🔗 LinkedIn: https://www.linkedin.com/in/h1manshu-kumar
 
 ---
-
-<div align="center">
-
-**💻 Happy Scripting! 🚀**
-
-</div>
